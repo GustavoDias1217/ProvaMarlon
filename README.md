@@ -65,7 +65,6 @@ serverless remove       # Remove tudo
 | POST | `/lances` | Criar lance (async) |
 | GET | `/lances/{leilaoId}` | Listar lances |
 
-**Ver exemplos completos em:** `docs/API.md` e `docs/TESTES.md`
 
 ## 📊 Monitoramento
 
